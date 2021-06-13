@@ -12,7 +12,7 @@ Language: JavaScript
 
 * Create another function, __findInvalidCards()__ that has one parameter for a nested array of credit card numbers. The role of findInvalidCards() is to check through the nested array for which numbers are invalid, and return another nested array of invalid cards.
 
-*Create a function, __idInvalidCardCompanies()__ that has one parameter for a nested array of invalid numbers and returns an array of companies.
+* Create a function, __idInvalidCardCompanies()__ that has one parameter for a nested array of invalid numbers and returns an array of companies.
 
 
 ## Additional tasks
