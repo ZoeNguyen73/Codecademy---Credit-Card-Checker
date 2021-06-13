@@ -1,6 +1,6 @@
 # Credit Card Checker project
 ## About the project
-This is a challenge project which is part of Full-Stack Engineering path at Codecademy.
+A challenge project that is part of JavaScript Syntax II cours (Full-Stack Engineering path) at Codecademy.
 
 Project goal: Create a code that helps to identify invalid Credit Card numbers.
 
